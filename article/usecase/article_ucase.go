@@ -7,9 +7,9 @@ import (
 	"github.com/sirupsen/logrus"
 	"golang.org/x/sync/errgroup"
 
-	"github.com/bxcodec/go-clean-arch/article"
-	"github.com/bxcodec/go-clean-arch/author"
-	"github.com/bxcodec/go-clean-arch/models"
+	"github.com/bmilesp/go-clean-arch/article"
+	"github.com/bmilesp/go-clean-arch/author"
+	"github.com/bmilesp/go-clean-arch/models"
 )
 
 type articleUsecase struct {

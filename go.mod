@@ -1,10 +1,10 @@
-module github.com/bxcodec/go-clean-arch
+module github.com/bmilesp/go-clean-arch
 
 go 1.12
 
 require (
 	github.com/BurntSushi/toml v0.3.1 // indirect
-	github.com/bxcodec/faker v1.4.2
+	github.com/bmilesp/faker v1.4.2
 	github.com/davecgh/go-spew v1.1.0 // indirect
 	github.com/go-playground/locales v0.12.1 // indirect
 	github.com/go-playground/universal-translator v0.16.0 // indirect

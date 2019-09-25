@@ -12,11 +12,11 @@ import (
 	"github.com/labstack/echo"
 	"github.com/spf13/viper"
 
-	_articleHttpDeliver "github.com/bxcodec/go-clean-arch/article/delivery/http"
-	_articleRepo "github.com/bxcodec/go-clean-arch/article/repository"
-	_articleUcase "github.com/bxcodec/go-clean-arch/article/usecase"
-	_authorRepo "github.com/bxcodec/go-clean-arch/author/repository"
-	"github.com/bxcodec/go-clean-arch/middleware"
+	_articleHttpDeliver "github.com/bmilesp/go-clean-arch/article/delivery/http"
+	_articleRepo "github.com/bmilesp/go-clean-arch/article/repository"
+	_articleUcase "github.com/bmilesp/go-clean-arch/article/usecase"
+	_authorRepo "github.com/bmilesp/go-clean-arch/author/repository"
+	"github.com/bmilesp/go-clean-arch/middleware"
 )
 
 func init() {

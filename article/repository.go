@@ -3,7 +3,7 @@ package article
 import (
 	"context"
 
-	"github.com/bxcodec/go-clean-arch/models"
+	"github.com/bmilesp/go-clean-arch/models"
 )
 
 // Repository represent the article's repository contract
